@@ -23,7 +23,11 @@ class _FavoriteScreenState extends State<FavoriteScreen> {
                     color: AppColor.primaryColor,
                     height: 120,
                   ),
-                  CircleAvatar()
+                  CircleAvatar(),
+
+
+
+
 
                 ],
               )

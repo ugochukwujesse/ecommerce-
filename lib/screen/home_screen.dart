@@ -1,6 +1,5 @@
 
 
-import 'package:e_commerce/models/get_all_electronic_category_response.dart';
 import 'package:e_commerce/models/get_all_product_response_model.dart';
 import 'package:e_commerce/screen/add_to_cart_screen.dart';
 import 'package:e_commerce/screen/category_screen.dart';
