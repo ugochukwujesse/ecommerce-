@@ -2,15 +2,24 @@
 
 A new Flutter project.
 
-## Getting Started
+## Description
 
-This project is a starting point for a Flutter application.
+This project uses an api to display categories, products and products by categories, this e-commerce app also allows users add products to cart and checkout cart. On account creation, a user sees all products and categories and can view details of each product.
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshot
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+|                        Splash Screen                        |                        Login Screen                         |
+|:-----------------------------------------------------------:|:-----------------------------------------------------------:|
+| <img src="assets/screenshots/splashscreen.png" width="500"> | <img src="assets/screenshots/login_screen.png" width="500"> |
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+|                        Signup Screen                         |                        Home Screen                         |
+|:------------------------------------------------------------:|:----------------------------------------------------------:|
+| <img src="assets/screenshots/signup_screen.png" width="500"> | <img src="assets/screenshots/home_screen.png" width="500"> |
+
+|                       Add to cart Screen                        |                        Checkout Screen                         |
+|:---------------------------------------------------------------:|:--------------------------------------------------------------:|
+| <img src="assets/screenshots/addtocart_screen.png" width="500"> | <img src="assets/screenshots/checkout_screen.png" width="500"> |
+
+|                        Profile Screen                         |
+|:-------------------------------------------------------------:|
+| <img src="assets/screenshots/profile_screen.png" width="500"> | 

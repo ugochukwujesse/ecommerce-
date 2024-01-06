@@ -17,7 +17,7 @@ class BottomIcon extends StatelessWidget {
       children: [
         GestureDetector(
             onTap: (){},
-            child: SvgPicture.asset(AppSvg.faceBok)),
+            child: SvgPicture.asset(AppSvg.faceBok,)),
         const SizedBox(width: 30,),
         GestureDetector(
             onTap: (){},

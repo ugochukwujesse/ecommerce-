@@ -25,7 +25,7 @@ class ReusableClotheContainer extends StatelessWidget {
         children: [
           svg,
           Padding(
-            padding:  const EdgeInsets.only(bottom: 5,left: 10,right: 10),
+            padding:  const EdgeInsets.only(left: 10,right: 10),
             child:  Text(label,
               style: TextStyle(
                   fontSize: AppTextSize.h12,

@@ -4,7 +4,6 @@ import 'package:e_commerce/utility/app_svg.dart';
 import 'package:e_commerce/utility/app_text.dart';
 import 'package:e_commerce/utility/appfont_weight.dart';
 import 'package:e_commerce/widget/my_cart_container.dart';
-import 'package:e_commerce/widget/nav_bar.dart';
 import 'package:e_commerce/widget/reusable_custom_button.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/flutter_svg.dart';
@@ -28,7 +27,7 @@ class _MyCartState extends State<MyCart> {
     _cartItems[index] = _cartItems[index].copyWith(quantity: newQuantity);
     setState(() {
 
-    });;
+    });
 
   }
   @override
